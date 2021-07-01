@@ -1243,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-07-01 20:40:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-07-01 15:12:10 +0200"
@@ -1533,6 +1539,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert_hills": "2021-07-01 20:27:26 +0200",
       "minecraft:desert": "2021-06-30 13:39:56 +0200",
       "minecraft:savanna_plateau": "2021-06-30 13:39:02 +0200",
       "minecraft:beach": "2021-06-30 15:04:31 +0200",
