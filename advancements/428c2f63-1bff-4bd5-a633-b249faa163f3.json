@@ -1,0 +1,29 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-07-01 11:12:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-07-01 11:12:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-07-01 11:12:42 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2021-07-01 11:11:21 +0200",
+      "minecraft:savanna": "2021-07-01 11:11:09 +0200",
+      "minecraft:plains": "2021-07-01 11:10:47 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2724
+}
