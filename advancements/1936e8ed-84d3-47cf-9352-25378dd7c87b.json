@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_stairs": "2021-07-02 00:00:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-06-30 13:45:23 +0200"
@@ -1022,6 +1028,7 @@
       "minecraft:spider": "2021-06-29 16:59:47 +0200",
       "minecraft:creeper": "2021-06-29 17:09:05 +0200",
       "minecraft:witch": "2021-06-29 17:21:01 +0200",
+      "minecraft:husk": "2021-07-02 00:10:20 +0200",
       "minecraft:cave_spider": "2021-07-01 23:26:37 +0200",
       "minecraft:enderman": "2021-06-29 17:05:41 +0200",
       "minecraft:zombie": "2021-06-29 16:41:40 +0200"
@@ -1415,6 +1422,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-06-30 13:58:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2021-07-02 00:03:37 +0200"
     },
     "done": true
   },
@@ -2098,6 +2111,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2021-06-29 16:31:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_stairs": "2021-07-02 00:03:38 +0200"
     },
     "done": true
   },
