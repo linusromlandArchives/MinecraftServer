@@ -2377,6 +2377,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-07-01 19:04:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-30 21:22:39 +0200"
