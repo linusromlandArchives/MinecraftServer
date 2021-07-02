@@ -627,6 +627,7 @@
     "criteria": {
       "minecraft:pillager": "2021-06-30 16:11:26 +0200",
       "minecraft:skeleton": "2021-06-30 14:07:18 +0200",
+      "minecraft:hoglin": "2021-07-02 22:03:57 +0200",
       "minecraft:spider": "2021-06-30 16:18:48 +0200",
       "minecraft:creeper": "2021-06-30 16:39:54 +0200",
       "minecraft:piglin": "2021-07-02 20:17:27 +0200",
@@ -2731,6 +2732,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-06-30 13:38:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-07-02 22:01:20 +0200"
     },
     "done": true
   },
