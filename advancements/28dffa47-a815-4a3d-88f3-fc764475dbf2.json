@@ -1441,6 +1441,7 @@
       "minecraft:beach": "2021-06-30 18:00:38 +0200",
       "minecraft:dark_forest": "2021-07-01 20:40:13 +0200",
       "minecraft:river": "2021-07-01 12:12:37 +0200",
+      "minecraft:swamp": "2021-07-02 18:46:18 +0200",
       "minecraft:savanna": "2021-06-30 12:59:13 +0200",
       "minecraft:plains": "2021-06-30 12:55:41 +0200"
     },
@@ -1652,7 +1653,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2021-06-30 20:25:40 +0200"
+      "minecraft:crimson_forest": "2021-06-30 20:25:40 +0200",
+      "minecraft:soul_sand_valley": "2021-07-02 18:51:15 +0200",
+      "minecraft:nether_wastes": "2021-07-02 18:54:59 +0200"
     },
     "done": false
   },
