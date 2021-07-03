@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-30 18:57:08 +0200"
@@ -845,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-06-30 14:37:50 +0200"
@@ -941,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2021-07-03 20:29:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-06-30 13:45:22 +0200"
@@ -1010,6 +1028,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-07-01 23:50:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2021-07-03 20:29:05 +0200"
     },
     "done": true
   },
@@ -1819,9 +1843,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-06-30 14:30:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
     },
     "done": true
   },
@@ -2551,6 +2587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-06-30 14:04:32 +0200"
@@ -2650,6 +2692,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-07-02 21:38:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
     },
     "done": true
   },
@@ -2767,6 +2815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-06-30 14:30:50 +0200"
@@ -2803,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2021-07-02 20:37:02 +0200"
@@ -2812,6 +2872,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2021-06-30 16:38:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-07-03 20:29:38 +0200"
     },
     "done": true
   },
