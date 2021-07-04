@@ -131,15 +131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2021-07-02 19:30:27 +0200"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-07-02 18:54:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-07-02 19:30:27 +0200"
     },
     "done": true
   },
@@ -1783,6 +1783,7 @@
       "minecraft:desert_hills": "2021-06-30 18:50:51 +0200",
       "minecraft:desert": "2021-06-29 16:57:03 +0200",
       "minecraft:jungle": "2021-07-02 20:00:02 +0200",
+      "minecraft:jungle_hills": "2021-07-04 19:37:40 +0200",
       "minecraft:savanna_plateau": "2021-06-29 16:46:35 +0200",
       "minecraft:beach": "2021-06-30 18:51:09 +0200",
       "minecraft:river": "2021-06-29 16:57:02 +0200",
