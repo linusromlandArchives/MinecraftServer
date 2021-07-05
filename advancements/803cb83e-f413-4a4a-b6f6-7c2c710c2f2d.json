@@ -1859,6 +1859,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2021-07-05 13:30:40 +0200",
+      "minecraft:forest": "2021-07-05 13:31:20 +0200",
+      "minecraft:mountains": "2021-07-05 13:37:00 +0200",
       "minecraft:desert_hills": "2021-06-30 18:50:51 +0200",
       "minecraft:desert": "2021-06-29 16:57:03 +0200",
       "minecraft:jungle": "2021-07-02 20:00:02 +0200",
@@ -2128,6 +2131,12 @@
       "has_bamboo": "2021-07-05 13:23:36 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2021-07-05 13:31:57 +0200"
+    },
+    "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
