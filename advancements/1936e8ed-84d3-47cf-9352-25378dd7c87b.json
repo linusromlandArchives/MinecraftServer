@@ -655,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-07-05 13:01:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-07-02 16:15:36 +0200"
@@ -1354,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-07-05 13:01:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2021-06-29 16:42:59 +0200"
@@ -1616,6 +1628,7 @@
     "criteria": {
       "bread": "2021-06-29 16:32:11 +0200",
       "melon_slice": "2021-06-30 16:41:27 +0200",
+      "cooked_chicken": "2021-07-05 13:02:23 +0200",
       "carrot": "2021-07-01 22:36:17 +0200"
     },
     "done": false
@@ -1761,6 +1774,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-06-29 17:09:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-07-05 13:01:04 +0200"
     },
     "done": true
   },
