@@ -691,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-07-05 13:16:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-06-29 16:41:50 +0200"
@@ -1112,6 +1118,7 @@
       "minecraft:jungle_hills": "2021-07-05 12:03:48 +0200",
       "minecraft:savanna_plateau": "2021-06-29 16:33:24 +0200",
       "minecraft:beach": "2021-06-30 15:04:22 +0200",
+      "minecraft:dark_forest": "2021-07-05 13:22:46 +0200",
       "minecraft:river": "2021-06-29 17:16:59 +0200",
       "minecraft:savanna": "2021-06-29 16:29:58 +0200",
       "minecraft:plains": "2021-06-29 16:26:05 +0200"
@@ -1558,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-07-05 13:14:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-06-29 16:59:32 +0200"
@@ -1626,6 +1639,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2021-07-05 13:23:55 +0200",
       "bread": "2021-06-29 16:32:11 +0200",
       "melon_slice": "2021-06-30 16:41:27 +0200",
       "cooked_chicken": "2021-07-05 13:02:23 +0200",
@@ -2728,6 +2742,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-07-02 16:25:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2021-07-05 13:14:03 +0200"
     },
     "done": true
   },
