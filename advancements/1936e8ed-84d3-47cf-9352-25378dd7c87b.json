@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-30 15:28:03 +0200"
@@ -742,6 +748,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-06-29 16:41:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
     },
     "done": true
   },
@@ -1078,6 +1090,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2021-06-29 17:09:33 +0200",
+      "minecraft:jungle": "2021-07-05 12:03:04 +0200",
+      "minecraft:jungle_hills": "2021-07-05 12:03:48 +0200",
       "minecraft:savanna_plateau": "2021-06-29 16:33:24 +0200",
       "minecraft:beach": "2021-06-30 15:04:22 +0200",
       "minecraft:river": "2021-06-29 17:16:59 +0200",
@@ -1278,6 +1292,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-07-05 12:01:19 +0200",
+      "minecraft:nether_wastes": "2021-07-05 12:02:40 +0200",
+      "minecraft:soul_sand_valley": "2021-07-05 12:02:19 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2021-06-29 17:09:38 +0200"
@@ -1401,6 +1423,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-06-30 15:28:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-07-05 12:01:18 +0200"
     },
     "done": true
   },
@@ -1586,9 +1614,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-06-29 16:42:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
     },
     "done": true
   },
@@ -1988,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-07-05 12:01:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-07-02 16:25:10 +0200"
@@ -2288,6 +2334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-06-29 16:57:25 +0200"
@@ -2369,6 +2421,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-07-01 22:49:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
     },
     "done": true
   },
@@ -2462,6 +2520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-06-29 16:42:32 +0200"
@@ -2492,6 +2556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_cut_copper": "2021-06-30 15:46:54 +0200"
@@ -2513,6 +2583,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-07-01 22:59:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-07-05 12:06:14 +0200"
     },
     "done": true
   },
