@@ -751,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-07-06 22:41:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2021-06-29 16:33:35 +0200"
@@ -1607,6 +1613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2021-07-06 22:34:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2021-06-30 15:46:54 +0200"
@@ -1639,6 +1651,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2021-07-06 22:41:37 +0200",
       "apple": "2021-07-05 13:23:55 +0200",
       "bread": "2021-06-29 16:32:11 +0200",
       "melon_slice": "2021-06-30 16:41:27 +0200",
