@@ -1135,6 +1135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2021-07-17 21:58:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-06-30 14:17:28 +0200"
@@ -1598,6 +1604,7 @@
       "minecraft:dark_forest": "2021-07-01 20:40:13 +0200",
       "minecraft:river": "2021-07-01 12:12:37 +0200",
       "minecraft:lukewarm_ocean": "2021-07-17 21:48:01 +0200",
+      "minecraft:birch_forest_hills": "2021-07-17 22:07:05 +0200",
       "minecraft:wooded_mountains": "2021-07-17 21:19:40 +0200",
       "minecraft:wooded_hills": "2021-07-17 21:18:10 +0200",
       "minecraft:stone_shore": "2021-07-17 21:14:47 +0200",
@@ -3151,6 +3158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-07-17 21:58:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-06-30 13:07:27 +0200"
@@ -3328,6 +3341,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-30 18:58:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-07-17 21:58:51 +0200"
     },
     "done": true
   },
