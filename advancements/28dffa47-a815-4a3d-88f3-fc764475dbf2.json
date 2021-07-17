@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-06-30 13:17:01 +0200"
@@ -783,6 +789,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2021-07-02 14:16:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2021-07-17 20:42:48 +0200"
     },
     "done": true
   },
@@ -1146,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2021-07-01 21:48:18 +0200"
@@ -1326,6 +1344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2021-07-17 20:42:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-06-30 13:13:09 +0200"
@@ -1353,6 +1377,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-07-17 20:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
     },
     "done": true
   },
@@ -1532,6 +1562,7 @@
       "minecraft:taiga": "2021-07-02 10:56:42 +0200",
       "minecraft:desert_hills": "2021-07-01 12:08:28 +0200",
       "minecraft:deep_cold_ocean": "2021-07-01 21:09:11 +0200",
+      "minecraft:taiga_hills": "2021-07-17 20:50:53 +0200",
       "minecraft:desert": "2021-06-30 14:14:04 +0200",
       "minecraft:jungle": "2021-07-01 20:30:52 +0200",
       "minecraft:birch_forest": "2021-07-01 20:40:41 +0200",
@@ -2011,6 +2042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-06-30 13:00:51 +0200"
@@ -2308,6 +2345,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-06-30 21:24:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
     },
     "done": true
   },
@@ -2839,6 +2882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-06-30 14:17:14 +0200"
@@ -2908,6 +2957,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-07-17 20:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
     },
     "done": true
   },
@@ -3469,6 +3524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2021-07-01 20:34:59 +0200"
@@ -3556,6 +3617,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-07-02 14:38:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-07-17 20:54:06 +0200"
     },
     "done": true
   },
