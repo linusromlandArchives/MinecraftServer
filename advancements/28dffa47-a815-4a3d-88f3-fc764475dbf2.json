@@ -1225,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-07-17 21:52:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-07-02 19:19:38 +0200"
@@ -1585,11 +1591,13 @@
       "minecraft:birch_forest": "2021-07-01 20:40:41 +0200",
       "minecraft:jungle_hills": "2021-07-01 20:31:10 +0200",
       "minecraft:snowy_beach": "2021-07-17 21:06:46 +0200",
+      "minecraft:warm_ocean": "2021-07-17 21:51:22 +0200",
       "minecraft:deep_lukewarm_ocean": "2021-07-01 20:29:29 +0200",
       "minecraft:savanna_plateau": "2021-06-30 13:00:01 +0200",
       "minecraft:beach": "2021-06-30 18:00:38 +0200",
       "minecraft:dark_forest": "2021-07-01 20:40:13 +0200",
       "minecraft:river": "2021-07-01 12:12:37 +0200",
+      "minecraft:lukewarm_ocean": "2021-07-17 21:48:01 +0200",
       "minecraft:wooded_mountains": "2021-07-17 21:19:40 +0200",
       "minecraft:wooded_hills": "2021-07-17 21:18:10 +0200",
       "minecraft:stone_shore": "2021-07-17 21:14:47 +0200",
