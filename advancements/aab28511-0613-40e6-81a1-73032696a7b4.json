@@ -1461,6 +1461,7 @@
       "minecraft:cold_ocean": "2021-07-17 20:45:38 +0200",
       "minecraft:snowy_mountains": "2021-07-17 21:06:59 +0200",
       "minecraft:forest": "2021-07-17 20:55:02 +0200",
+      "minecraft:mountains": "2021-07-17 21:14:59 +0200",
       "minecraft:taiga": "2021-07-17 20:49:51 +0200",
       "minecraft:desert_hills": "2021-07-01 20:27:26 +0200",
       "minecraft:deep_cold_ocean": "2021-07-17 20:44:43 +0200",
@@ -1475,6 +1476,10 @@
       "minecraft:beach": "2021-06-30 15:04:31 +0200",
       "minecraft:dark_forest": "2021-07-17 21:05:55 +0200",
       "minecraft:river": "2021-06-30 13:40:06 +0200",
+      "minecraft:wooded_mountains": "2021-07-17 21:19:48 +0200",
+      "minecraft:wooded_hills": "2021-07-17 21:18:13 +0200",
+      "minecraft:stone_shore": "2021-07-17 21:14:42 +0200",
+      "minecraft:swamp": "2021-07-17 21:16:05 +0200",
       "minecraft:savanna": "2021-06-30 13:36:26 +0200",
       "minecraft:plains": "2021-06-30 13:35:44 +0200"
     },
