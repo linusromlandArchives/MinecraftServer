@@ -861,7 +861,8 @@
       "minecraft:piglin": "2021-06-30 20:25:58 +0200",
       "minecraft:enderman": "2021-06-30 14:10:51 +0200",
       "minecraft:zombie": "2021-06-30 13:17:01 +0200",
-      "minecraft:drowned": "2021-07-01 20:27:33 +0200"
+      "minecraft:drowned": "2021-07-01 20:27:33 +0200",
+      "minecraft:zombie_villager": "2021-07-23 19:01:00 +0200"
     },
     "done": false
   },
